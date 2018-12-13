@@ -12,6 +12,9 @@
     "chai": "^4.2.0"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsdom": "^13.0.0",
     "lodash": "^4.17.11"
   }
 }
